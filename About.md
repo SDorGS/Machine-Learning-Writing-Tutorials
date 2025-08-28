@@ -1,0 +1,1 @@
+This is my comprehensive understanding of machine learning, developed through a deep, methodical study of _Python Machine Learning_ by Sebastian Raschka. Every concept is unpacked, every step shown, no assumptions left unstated.
